@@ -29,4 +29,4 @@ This is an application for betting on virtual matches. In each game we have a se
 ## Setup
 After turning on the application, we can log in to an existing account or create a new account. Then we can bet on the matches or see the ranking of the players. The game ends when there are less than 10 coins on the player's account.
 ## Project status
-The project is still under development. In the next updates, a virtual Polish league and a graphic interface will be added. 
+The project is still under development. In the next updates, a virtual Polish Ekstrakala and a graphic interface will be added. 
