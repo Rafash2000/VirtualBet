@@ -1,0 +1,5 @@
+1;skunek;weed;133.3124;2
+2;Josef;zlomek;100.0;0
+3;rafal;123;100.0;0
+4;ziolek;weed;100.0;0
+5;MaryJane;weed;100.0;0
